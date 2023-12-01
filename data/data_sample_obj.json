@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Brown",
+    "email": "jkl@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 0
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  },
+  {
+    "name": "Holmes",
+    "email": "jkl@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 0
+      },
+      {
+        "title": "React",
+        "role": 0
+      }
+    ]
+  },
+  {
+    "name": "Miles",
+    "email": "tyu@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 0
+      },
+      {
+        "title": "TypeScript",
+        "role": 0
+      },
+      {
+        "title": "React",
+        "role": 0
+      }
+    ]
+  },
+  {
+    "name": "Stacie",
+    "email": "ioy@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 0
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  },
+  {
+    "name": "Patsy",
+    "email": "ioy@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 0
+      }
+    ]
+  },
+  {
+    "name": "Acevedo",
+    "email": "jkl@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 0
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  },
+  {
+    "name": "Isabel",
+    "email": "use@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  },
+  {
+    "name": "Leigh",
+    "email": "ioy@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 0
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 0
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  },
+  {
+    "name": "Josie",
+    "email": "tyu@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 0
+      },
+      {
+        "title": "SQL",
+        "role": 0
+      },
+      {
+        "title": "TypeScript",
+        "role": 1
+      },
+      {
+        "title": "React",
+        "role": 0
+      }
+    ]
+  },
+  {
+    "name": "Matilda",
+    "email": "jkl@sdf.com",
+    "courses": [
+      {
+        "title": "Python",
+        "role": 1
+      },
+      {
+        "title": "SQL",
+        "role": 1
+      },
+      {
+        "title": "TypeScript",
+        "role": 0
+      },
+      {
+        "title": "React",
+        "role": 1
+      }
+    ]
+  }
+]
