@@ -44,7 +44,7 @@ print(rect.get_amount_inside(sq))
 ```
 
 That code should return:
-
+```
 50
 26
 Rectangle(width=10, height=3)
@@ -61,3 +61,4 @@ Square(side=4)
 ****
 
 8
+```
